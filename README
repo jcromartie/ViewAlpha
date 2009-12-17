@@ -1,0 +1,1 @@
+This app is just a simple example to demonstrate that some UIView properties are backed directly by the view's CALayer. That's it. Nothing exciting. It was a 5-minute experiment based on a conversation in #iphonedev.
